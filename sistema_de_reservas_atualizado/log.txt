@@ -1,0 +1,7 @@
+[21:38:53.670080] Erro ao carregar dados: dados/hospedes.ser (No such file or directory)
+[21:38:53.676157] Erro ao carregar dados: dados/quartos.ser (No such file or directory)
+[21:38:53.676772] Erro ao carregar dados: dados/reservas.ser (No such file or directory)
+[21:39:27.455200] Erro ao salvar dados: dados/hospedes.ser (No such file or directory)
+[21:39:51.873428] Erro ao salvar dados: dados/quartos.ser (No such file or directory)
+[21:40:18.962880] Erro ao salvar dados: dados/reservas.ser (No such file or directory)
+[21:40:44.493742] Erro ao salvar dados: dados/reservas.ser (No such file or directory)
