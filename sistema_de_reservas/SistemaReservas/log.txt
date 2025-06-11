@@ -1,0 +1,6 @@
+[19:43:22.213169] Erro ao carregar dados: null
+[19:43:22.218188] Erro ao carregar dados: null
+[19:43:22.218546] Erro ao carregar dados: null
+[19:44:33.332449] Erro ao salvar dados: model.Hospede
+[19:45:09.855] Erro ao salvar dados: model.QuartoSimples
+[19:46:02.933596] Erro ao salvar dados: model.Reserva
